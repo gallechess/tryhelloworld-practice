@@ -1,4 +1,2 @@
 # tryhelloworld-practice
-coding practice (tryhelloworld.co.kr problem)
-
-==Under Construction==
+solving algorithm problems on <http://tryhelloworld.co.kr/>
