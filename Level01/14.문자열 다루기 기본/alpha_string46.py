@@ -1,0 +1,8 @@
+import re
+
+def alpha_string46(s):
+    return bool(re.match("^(\d{4}|\d{6})$", s))
+
+# 아래는 테스트로 출력해 보기 위한 코드입니다.
+print(alpha_string46("a234"))
+print(alpha_string46("1234"))
